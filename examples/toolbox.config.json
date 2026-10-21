@@ -1,0 +1,9 @@
+{
+  "roots": ["./data"],
+  "databases": { "demo": "./demo.db" },
+  "allowedHosts": ["127.0.0.1", "localhost"],
+  "maxBytes": 262144,
+  "maxRows": 200,
+  "writeEnabled": false,
+  "auditLog": "./audit.jsonl"
+}

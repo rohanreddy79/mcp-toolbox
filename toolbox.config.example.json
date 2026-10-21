@@ -1,0 +1,11 @@
+{
+  "roots": ["./examples/data"],
+  "databases": { "demo": "./examples/demo.db" },
+  "allowedHosts": ["127.0.0.1", "localhost", "*.example.com"],
+  "maxBytes": 1048576,
+  "maxRows": 500,
+  "writeEnabled": false,
+  "auditLog": "./toolbox-audit.jsonl",
+  "fetchTimeoutMs": 10000,
+  "ignore": [".git", "node_modules"]
+}

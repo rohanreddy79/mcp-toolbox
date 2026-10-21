@@ -1,0 +1,5 @@
+{
+  "name": "Northwind-ish demo catalogue",
+  "currency": "EUR",
+  "categories": ["mugs", "stationery", "storage"]
+}
