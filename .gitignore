@@ -1,0 +1,8 @@
+node_modules/
+dist/
+coverage/
+*.jsonl
+*.log
+.DS_Store
+examples/demo.db
+examples/demo.db-journal
